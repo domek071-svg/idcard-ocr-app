@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ID Card OCR</string>
+    <string name="camera_permission_required">Camera permission is required to scan ID cards</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="capture_front">Capture Front</string>
+    <string name="capture_back">Capture Back</string>
+    <string name="uploading">Uploading…</string>
+    <string name="processing">Processing…</string>
+    <string name="scan_complete">Scan Complete</string>
+    <string name="copy_json">Copy JSON</string>
+    <string name="json_copied">JSON copied to clipboard</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="retake_photos">Retake Photos</string>
+    <string name="scan_another">Scan Another</string>
+    <string name="align_document">Align document within the frame</string>
+    <string name="front_side">Front Side</string>
+    <string name="back_side">Back Side</string>
+</resources>
